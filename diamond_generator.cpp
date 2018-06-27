@@ -1,18 +1,4 @@
-// ******************************
-// Student Name: Jackson Zheng
-// Student Number: 20672834
-//
-// SYDE 121 Lab: 005 Assignment: 001
-//
-// Filename: Lab0501.cpp
-// Date submitted: 2017-10-16
-//
-// I hereby declare that this code, submitted
-// for crdit for the course SYDE121, is a product
-// of my own efforts. This coded solution has
-// not been plagiarized from other sources
-// as not been knowingly plagiarzed by others.
-// *******************************
+
 
 // This program takes in an odd integer value between 1 and 20
 // The output will be a diamond shape with the number of rows equal to the integer input
